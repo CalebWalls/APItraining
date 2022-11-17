@@ -7,7 +7,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//this is the middleware decalration 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -16,25 +18,21 @@ if (app.Environment.IsDevelopment())
  app.UseSwaggerUI();
 }
 
-//app.UseHttpsRedirection();
+app.UseHttpsRedirection();
+app.UseRouting();
 
-//app.UseRouting();
+app.UseAuthorization();
 
-//app.UseAuthorization();
-
-//app.UseEndpoints(endpoints =>
-//{
-//    endpoints.MapControllers();
-//}
-//);
-
-//app.MapControllers();
-
-app.Run(async (context) =>
-{ 
-await context.Response.WriteAsync("Hello World");
-    
-
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
 });
+
+
+
+
+
+
+
 
 app.Run();
