@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nt2RHH5H1VyGcq5UZQajk5/7qtmn03yWT6d6lW8vRzIR7aJRQS9tUacoLEDhbNowg6Hihms8PYzf0mnPotJtPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caleb.walls\\Desktop\\CodeProjs\\CityInfo.API\\CityInfo.API\\CityInfo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caleb.walls\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\caleb.walls\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\caleb.walls\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\caleb.walls\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\caleb.walls\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\caleb.walls\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
