@@ -10,7 +10,9 @@ namespace CityInfo.API.Controllers
         [HttpGet]
         public JsonResult GetCities()
         {
-           return new JsonResult(CitiesDataStore.Current.Cities);
+            
+
+           return new JsonResult(CitiesDataStore.Current.Cities.OrderByDescending(c => c.Id));
         }
 
         [HttpGet("{id}")]

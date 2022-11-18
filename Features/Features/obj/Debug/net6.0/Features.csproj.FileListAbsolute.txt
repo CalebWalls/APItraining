@@ -1,0 +1,15 @@
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\bin\Debug\net6.0\Features.exe
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\bin\Debug\net6.0\Features.deps.json
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\bin\Debug\net6.0\Features.runtimeconfig.json
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\bin\Debug\net6.0\Features.dll
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\bin\Debug\net6.0\Features.pdb
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.csproj.AssemblyReference.cache
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.AssemblyInfoInputs.cache
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.AssemblyInfo.cs
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.dll
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\refint\Features.dll
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.pdb
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\Features.genruntimeconfig.cache
+C:\Users\caleb.walls\Desktop\CodeProjs\Features\Features\obj\Debug\net6.0\ref\Features.dll
